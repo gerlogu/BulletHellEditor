@@ -78,5 +78,5 @@ Destructible meshes are not included on this project. Those effects can be easil
 
 **Documentation:** [[ENGLISH](https://gerlogu.com/wp-content/uploads/2022/04/SPACE-SHOOTER-EDITOR-USERS-MANUAL.pdf) | [SPANISH](https://gerlogu.com/wp-content/uploads/2022/04/SPACE-SHOOTER-EDITOR-GUIA-DE-USO.pdf)]
 
-**Important/Additional Notes:** You can contact me and I will answer you and include your question into the User Manual.
+**Important/Additional Notes:** Contact me and I will answer you and include your question into the User Manual.
 
