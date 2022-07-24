@@ -2,6 +2,8 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)</br>
 Create your own Levels, Bullets and Enemies by using customized Data Tables, Structures, Behavior Trees, etc.
 
+![Thumbnail](https://user-images.githubusercontent.com/55363746/180664628-388732da-557d-4f49-9cc8-3916de570e85.png)
+
 ## Description
 ***Latest Update:*** _July 24th, 2022_
 
@@ -12,7 +14,7 @@ Create your own Levels, Bullets and Enemies by using customized Data Tables, Str
 
 ### 📚 Overview
 
-This Space Shooter / Bullet Hell Editor includes several Data Tables and custom Data Structures that allow you to create your own Enemies, Bullets and Player Appareance + Stats. If you need help in order to include the project assets into your own project, read the User's Manual.
+This Space Shooter / Bullet Hell Editor includes several Data Tables and custom Data Structures that allow you to create your own Enemies, Bullets and Player Appareance + Stats. If you need help in order to include the project assets into your own project, read the [User's Manual](https://gerlogu.com/wp-content/uploads/2022/04/SPACE-SHOOTER-EDITOR-USERS-MANUAL.pdf).
 
 ### 📣 Content
 
@@ -80,3 +82,12 @@ Destructible meshes are not included on this project. Those effects can be easil
 
 **Important/Additional Notes:** Contact me and I will answer you and include your question into the User Manual.
 
+## Images
+
+![IMG_2](https://user-images.githubusercontent.com/55363746/180664639-d2ca9eb1-1b8f-40b8-857b-95daf939d323.png)
+![IMG_4](https://user-images.githubusercontent.com/55363746/180664651-be41a929-9dc0-41b6-9538-a04daf1b028b.png)
+![IMG_6](https://user-images.githubusercontent.com/55363746/180664665-ac9ab880-e7a8-4450-af99-a40795f9263a.png)
+![IMG_5](https://user-images.githubusercontent.com/55363746/180664657-7a7691cd-3509-4b5b-bbb8-5616f871d5fb.png)
+![IMG_7](https://user-images.githubusercontent.com/55363746/180664668-9cc13f84-49e4-409b-a415-448ad0c112df.png)
+![IMG_1](https://user-images.githubusercontent.com/55363746/180664638-8f71bde2-a444-4508-9993-c7d4e586eda3.png)
+![IMG_3](https://user-images.githubusercontent.com/55363746/180664672-22bec5cc-c4cf-4ee2-963a-d8353f5dab13.png)
