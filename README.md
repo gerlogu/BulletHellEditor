@@ -2,7 +2,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)</br>
 Create your own Levels, Bullets and Enemies by using customized Data Tables, Structures, Behavior Trees, etc.
 
-## Long Description
+## Description
 ***Latest Update:*** _July 24th, 2022_
 
 ***Note:*** _A good understanding of Blueprints & Data Tables will be useful in order to modify content._
