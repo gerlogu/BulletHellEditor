@@ -2,7 +2,8 @@
 [![Version](https://img.shields.io/badge/Version-1.0.2-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)](https://github.com/gerlogu/BulletHellEditor/releases/tag/V1.0.2)</br>
 Create your own Levels, Bullets and Enemies by using customized Data Tables, Structures, Behavior Trees, etc.
 
-![Thumbnail](https://user-images.githubusercontent.com/55363746/180664628-388732da-557d-4f49-9cc8-3916de570e85.png)
+![Thumbnail](https://user-images.githubusercontent.com/55363746/223793036-e8923ac7-15ba-468d-b56a-466538b8f35b.png)
+
 
 ## Description
 ***Latest Update:*** _July 24th, 2022_
