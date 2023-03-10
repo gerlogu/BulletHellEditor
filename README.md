@@ -4,7 +4,7 @@
 Create your own Levels, Bullets and Enemies by using customized Data Tables, Structures, Behavior Trees, etc.
 
 ![Thumbnail](https://user-images.githubusercontent.com/55363746/223793036-e8923ac7-15ba-468d-b56a-466538b8f35b.png)
-<div align="center"><a href="https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/">🏆</a> <a href="https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/"><strong>Asset Showcased by Epic Games, Inc in 2022</strong></a></div>
+<div align="center"><a href="https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/">🏆</a> <a href="https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/"><strong>Asset Showcased by Epic Games, Inc. in 2022</strong></a></div>
 
 ## Description
 ***Latest Update:*** _July 24th, 2022_
