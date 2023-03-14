@@ -1,6 +1,7 @@
 # Bullet Hell Editor
 [![Version](https://img.shields.io/badge/Version-1.0.2-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)](https://github.com/gerlogu/BulletHellEditor/releases/tag/V1.0.2)
-![Version](https://img.shields.io/badge/Blueprints-0086d9?style=flat)</br>
+![Version](https://img.shields.io/badge/Blueprints-0086d9?style=flat)
+![Version](https://img.shields.io/github/stars/gerlogu/BulletHellEditor?style=social)</br>
 Create your own Levels, Bullets and Enemies by using customized Data Tables, Structures, Behavior Trees, etc.
 
 ![Thumbnail](https://user-images.githubusercontent.com/55363746/223793036-e8923ac7-15ba-468d-b56a-466538b8f35b.png)
