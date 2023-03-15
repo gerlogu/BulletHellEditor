@@ -4,13 +4,10 @@
 ![Asset Stars](https://img.shields.io/github/stars/gerlogu/BulletHellEditor?style=social)</br>
 Create your own Levels, Bullets and Enemies by using customized Data Tables, Structures, Behavior Trees, etc.
 
+> ##### If you find the asset useful, please support it by giving a "★ Star" to the repository, thank you!
+
 ![Thumbnail](https://user-images.githubusercontent.com/55363746/223793036-e8923ac7-15ba-468d-b56a-466538b8f35b.png)
-<div align="center"><a href="https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/">🏆</a> <a href="https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/"><strong>Asset Showcased by Epic Games, Inc. in 2022</strong></a>
-
-<br>
-
-##### If you find the asset useful, please support it by giving a "★ Star" to the repository, thank you!
-</div>
+<div align="center"><a href="https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/">🏆</a> <a href="https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/"><strong>Asset Showcased by Epic Games, Inc. in 2022</strong></a></div>
 
 ## Description
 ***Latest Update:*** _July 24th, 2022_
